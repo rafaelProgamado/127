@@ -1,21 +1,22 @@
 body
 {
-background-color:#a9f04b;
+background-image: linear-gradient(red, orange, yellow);
+
 }
 
 h1
 {
-  font-family: 'Arial', sans-serif;
+  font-family: 'Special Elite', fantasy;
   color:rgb(38, 0, 255);
   background-color: cornsilk;
 }
 
-#sketchName
+#sketch_name
 {
   color:red;
 }
 
-#showSketch
+#show_sketch
 {
   float:right;
 }
@@ -42,7 +43,7 @@ canvas
 p, span
   {
     padding-top:10px;
-    font-family: 'Arial', sans-serif;
+    font-family: 'Special Elite', fantasy;
     font-size:25px;
     
   }
